@@ -588,6 +588,11 @@ main.hidden {
         font-size: 14px;
     }
 
+    .loadingAnimation {
+      width: 70%;
+      left: 15%;
+    }
+
     .headerNav {
         width: 90%;
     }
